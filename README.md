@@ -1,7 +1,7 @@
 # SWEN30006
 Project Part C
 
-May 15 - Try ask tutor what we're supposed to do \n
+May 15 - Try ask tutor what we're supposed to do < br />
 May 16 - Project Start
 May 17 
 May 18
