@@ -1,9 +1,9 @@
 # SWEN30006
 Project Part C
 
-Tues, May 15 - Try ask tutor what we're supposed to do
+<strike> Tues, May 15 - Try ask tutor what we're supposed to do </strike>
 
-Wed, May 16 - Project Start
+<strike> Wed, May 16 - Project Start - Failed </strike>
 
 Thurs, May 17
 
