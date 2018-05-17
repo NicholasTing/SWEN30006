@@ -5,7 +5,7 @@ Project Part C
 
 <strike> Wed, May 16 - Project Start - Failed </strike>
 
-Thurs, May 17
+Thurs, May 17 - Dimos finished it by himself.. what a legend
 
 Fri, May 18
 
